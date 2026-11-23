@@ -1,6 +1,6 @@
 # New England Collision website
 
-Public one-page site for New England Collision, 465 Derby Ave, West Haven, CT.
+This repo serves the "We're doing some updates" page for New England Collision, 465 Derby Ave, West Haven, CT.
 
 Preview (before DNS is pointed): https://joeperronebiz-bot.github.io/necollision-site/
 
